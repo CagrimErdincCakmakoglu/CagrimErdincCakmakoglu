@@ -14,7 +14,7 @@
 
 - ⚡ Know about my experiences [click me](https://aiapply.co/r/662f597b9ffb4)
 
-## 🌐 Connect with me:
+## 📩 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cagrimerdinccakmakoglu)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cagrimerdinccakmakoglu) 
 
 <h1 align="center">💻 Languages and Tools - Tech Stack:</h3>
