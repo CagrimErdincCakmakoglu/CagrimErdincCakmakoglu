@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MVC project**
 
-- 📫 How to reach me [Profilinizi Buraya Ekleyin](cagrimerdinccakmakoglu@hotmail.com)
+- 📫 How to reach me **cagrimerdinccakmakoglu@hotmail.com**
 
 - ⚡ Know about my experiences [click me](https://aiapply.co/r/662f597b9ffb4)
 
