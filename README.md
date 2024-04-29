@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **cagrimerdinccakmakoglu@hotmail.com**
 
-- 📄 Know about my experiences [click me](https://aiapply.co/r/662f597b9ffb4)
+- ⚡ Know about my experiences [click me](https://aiapply.co/r/662f597b9ffb4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
