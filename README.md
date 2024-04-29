@@ -1,7 +1,7 @@
 
 ![MasterHead](https://kruschecompany.com/wp-content/uploads/2021/11/Cover-image-for-blog-on-international-salary-ranges-for-software-developers-with-C-.Net_-1280x595.png)
 
-<h1 align="center">Merhaba 👋, I'm Çağrım Erdinç ÇAKMAKOĞLU</h1>
+<h1 align="center">Hi 👋, I'm Çağrım Erdinç ÇAKMAKOĞLU</h1>
 <h3 align="center">Full Stack Junior Software Developer from İstanbul, Turkey</h3>
 
 - 🔭 I’m currently working on **D&R - MVC Project**
