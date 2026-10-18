@@ -18,7 +18,7 @@
 ### 👋 About me
 
 <details open>
-<summary><b>🇬🇧 English</b></summary>
+<summary><img src="https://flagcdn.com/24x18/gb.png" width="20" alt="EN" /> <b>English</b></summary>
 
 I'm a **Full Stack Developer** from **Trabzon, Türkiye**, building web and desktop applications with **.NET and C#**.
 
@@ -32,7 +32,7 @@ I'm a **Full Stack Developer** from **Trabzon, Türkiye**, building web and desk
 </details>
 
 <details>
-<summary><b>🇹🇷 Türkçe</b></summary>
+<summary><img src="https://flagcdn.com/24x18/tr.png" width="20" alt="TR" /> <b>Türkçe</b></summary>
 
 **Trabzon**'da yaşayan, **.NET ve C#** ile web ve masaüstü uygulamaları geliştiren bir **Full Stack Developer**'ım.
 
@@ -46,7 +46,7 @@ I'm a **Full Stack Developer** from **Trabzon, Türkiye**, building web and desk
 </details>
 
 <details>
-<summary><b>🇩🇪 Deutsch</b></summary>
+<summary><img src="https://flagcdn.com/24x18/de.png" width="20" alt="DE" /> <b>Deutsch</b></summary>
 
 Ich bin **Full-Stack-Entwickler** aus **Trabzon, Türkei** und entwickle Web- und Desktop-Anwendungen mit **.NET und C#**.
 
@@ -60,7 +60,7 @@ Ich bin **Full-Stack-Entwickler** aus **Trabzon, Türkei** und entwickle Web- un
 </details>
 
 <details>
-<summary><b>🇫🇷 Français</b></summary>
+<summary><img src="https://flagcdn.com/24x18/fr.png" width="20" alt="FR" /> <b>Français</b></summary>
 
 Je suis **développeur Full Stack** basé à **Trabzon, en Turquie**, et je développe des applications web et de bureau avec **.NET et C#**.
 
@@ -74,7 +74,7 @@ Je suis **développeur Full Stack** basé à **Trabzon, en Turquie**, et je dév
 </details>
 
 <details>
-<summary><b>🇷🇺 Русский</b></summary>
+<summary><img src="https://flagcdn.com/24x18/ru.png" width="20" alt="RU" /> <b>Русский</b></summary>
 
 Я **Full Stack-разработчик** из **Трабзона, Турция**. Создаю веб- и десктопные приложения на **.NET и C#**.
 
@@ -88,7 +88,7 @@ Je suis **développeur Full Stack** basé à **Trabzon, en Turquie**, et je dév
 </details>
 
 <details>
-<summary><b>🇨🇳 中文</b></summary>
+<summary><img src="https://flagcdn.com/24x18/cn.png" width="20" alt="CN" /> <b>中文</b></summary>
 
 我是一名来自**土耳其特拉布宗**的**全栈开发工程师**，使用 **.NET 和 C#** 开发 Web 和桌面应用程序。
 
